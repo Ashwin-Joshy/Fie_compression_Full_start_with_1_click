@@ -1,4 +1,5 @@
 @echo off
 cd "FrontEnd"
-npm start > nul
+npm start > ../npmOut.txt
 cd "../"
+
